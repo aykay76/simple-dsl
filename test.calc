@@ -1,0 +1,6 @@
+ratio = 5/9;
+fahrenheit = 68;
+centrigrade = (fahrenheit - 32) * ratio;
+
+diameter = 5;
+circumference = diameter * pi;
